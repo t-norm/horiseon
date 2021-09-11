@@ -6,3 +6,4 @@ It is important that the files and folders located within this directory and bel
 --
 A more detailed list of changes made to the code contained within can be found by looking through the development release versions at: https://github.com/t-norm/horiseon/releases
 --
+![Horiseon site landing page, refactor work completed](./assets/images/completed-render.png)
